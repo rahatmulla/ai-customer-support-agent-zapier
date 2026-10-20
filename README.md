@@ -105,7 +105,7 @@ The operational threshold is **7/10**.
 - Outcome: The inquiry was flagged for manual handling rather than receiving an unsupported answer
 
   <img width="557" height="182" alt="Enquiry" src="https://github.com/user-attachments/assets/ea14a4fa-314d-4cc4-8e73-9d819d2bb3dc" />
-  <img width="400" height="480" alt="Work Alert Generated" src="https://github.com/user-attachments/assets/0217c738-ee7c-4125-98d5-54ef37d3ab07" />
+  <img width="400" height="780" alt="Work Alert Generated" src="https://github.com/user-attachments/assets/0217c738-ee7c-4125-98d5-54ef37d3ab07" />
 
 
 ## Key Features
