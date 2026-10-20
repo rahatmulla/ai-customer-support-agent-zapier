@@ -1,4 +1,4 @@
-# Codebasics AI Agent — Learner Experience Email Support
+# Customer Support Codebasics AI Agent — Learner Experience Email Support
 
 An AI-powered, no-code customer support agent built with **Zapier AI Agents** to help the Codebasics Learner Experience Team handle learner email inquiries efficiently.
 
@@ -104,6 +104,10 @@ The operational threshold is **7/10**.
 - Action: WhatsApp notification sent successfully after an initial action failure
 - Outcome: The inquiry was flagged for manual handling rather than receiving an unsupported answer
 
+  <img width="557" height="182" alt="Enquiry" src="https://github.com/user-attachments/assets/ea14a4fa-314d-4cc4-8e73-9d819d2bb3dc" />
+  <img width="400" height="480" alt="Work Alert Generated" src="https://github.com/user-attachments/assets/0217c738-ee7c-4125-98d5-54ef37d3ab07" />
+
+
 ## Key Features
 
 - No-code AI agent development
@@ -135,6 +139,11 @@ The operational threshold is **7/10**.
 ## Project Status
 
 **Demonstration completed:** Both high-confidence drafting and low-confidence human escalation were tested successfully.
+<img width="1405" height="866" alt="Agents Dashboard" src="https://github.com/user-attachments/assets/21edb179-c8b4-43f3-acdf-301efe27702a" />
+<img width="1917" height="862" alt="Zapier Dashboard" src="https://github.com/user-attachments/assets/525e3795-44bc-4546-b7f2-d02dcc745a9b" />
+<img width="912" height="522" alt="Tools Connected" src="https://github.com/user-attachments/assets/bf313506-9057-4240-9424-40c299f5e2db" />
+<img width="935" height="762" alt="Instruction Prompt" src="https://github.com/user-attachments/assets/94f04168-75ce-46ae-bd89-a5bfd5097f11" />
+
 
 ## Disclaimer
 
